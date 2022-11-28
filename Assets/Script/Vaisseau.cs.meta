@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a4c4c1c8ae6b044aa17424dc6bdd5bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - txtScore: {fileID: 2458713678953843825, guid: 98abbcf9eaff22b4699ee761065636b0, type: 3}
+  - txtBestScore: {fileID: 1715367406787697218, guid: c7113015f2f58964b9fc69c2c38a6fee, type: 3}
+  - tube: {fileID: -8418335232936381829, guid: 82c567bd339b3764a94c26306dfb4f57, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
